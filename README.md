@@ -1,24 +1,64 @@
-# <samp>Konstantin Milonas
+# 👋 Hi, I'm Konstantin Milonas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/konstantin-milonas/)
+EU citizen 🇪🇺 | German-Greek 🇩🇪🇬🇷 | Junior Data Analyst & Aspiring Data Engineer 🚀
 
-### 👋 Hello Tech Enthusiasts!
+---
 
-I’m Konstantin Milonas, an EU citizen with both German and Greek roots, currently honing my skills in **Data Analytics** through a Masterschool bootcamp while diving deeper into the field of **Data Engineering**.
+## 🎯 About Me
+- Transitioning from a successful career in **project management** and **sales consulting** into **Data Analytics** and **Data Engineering**.
+- Currently completing a **Masterschool Bootcamp** focused on business insights, data visualization, and predictive modeling.
+- Confident working in hybrid and remote teams, with strong communication and leadership skills.
+- Goal: Specialize in **Data Engineering** by early **2025**.
 
-With extensive experience as a Senior Retail Consultant, I bring a wealth of knowledge and expertise that I am excited to apply to my future roles in the tech industry.
+---
 
-👀 I’m passionate about Data Engineering, Data Analytics, and exploring how technology can make life simpler.  
+## 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-🌱 Currently, I’m focusing on SQL as part of my Masterschool Bootcamp. Alongside this, I’m independently exploring Git, GitHub, Docker, AWS, and Python, all of which I find fascinating. I plan to decide on my primary focus by early 2025.
+---
 
-💻 I value clear and direct communication, teamwork, and exchanging ideas in a positive and supportive environment.  
+### 📚 Skills
+- **Programming & Data Handling:** Python (pandas, numpy), SQL, Jupyter
+- **Data Visualization:** Tableau, Matplotlib (basic)
+- **Statistical Analysis & Machine Learning:** sklearn (basic models)
+- **Version Control & Collaboration:** Git, GitHub
+- **Cloud & Containerization:** AWS (beginner), Docker (beginner)
+- **Database Management:** PostgreSQL
 
-💞️ Let’s collaborate on projects involving data analysis, Python automation, or even creative uses of Docker and AWS!  
+---
 
-🍳 When I’m not working on data, I love cooking for friends and family, exploring nature through hiking, Nordic walking, or biking with my e-bike. I also enjoy listening to audiobooks and dancing salsa with my wife!  
+## 🤝 Let's Collaborate!
+- 📊 Data analysis, business insights & dashboards
+- ⚙️ Python automation and data wrangling
+- 📈 Predictive analysis projects (ML basics)
+- ☁️ First steps into cloud data workflows (AWS, Docker)
 
-⚡ Fun fact: I’m half Greek, but I don’t look like it – so I often surprise people when they find out!  
+> 🔗 **[View my Portfolio Projects](https://github.com/KonstantinData/Portfolio-Projects)**  
+> 🔗 **[Explore my Mastery Project - TravelTide Perk Recommendation](https://github.com/KonstantinData/Mastery-Project-Masterschool)**  
+> 📬 **[Get in touch!](mailto:kontakt@konstantinmilonas.de)**
 
-Let’s connect and grow together!
+---
 
+## 🎉 Fun Facts
+- 🍳 Passionate home chef
+- 🚴‍♂️ E-bike adventurer and hiking fan
+- 🎶 Salsa dancer & audiobook enthusiast
+
+---
+
+# 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KonstantinData&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinData&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+# 🚀 Let's connect and create data-driven solutions together!
