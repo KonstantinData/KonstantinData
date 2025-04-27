@@ -53,12 +53,5 @@ EU citizen 🇪🇺 | German-Greek 🇩🇪🇬🇷 | Junior Data Analyst & Aspi
 
 ---
 
-# 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KonstantinData&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinData&layout=compact&theme=radical" height="180"/>
-</p>
-
----
 
 # 🚀 Let's connect and create data-driven solutions together!
